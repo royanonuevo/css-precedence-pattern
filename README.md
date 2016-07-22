@@ -4,7 +4,7 @@
 ## Specificity hierarchy
 
 1. Inline styles (Presence of style in document).
-An inline style lives within your XHTML document. It is attached directly to the element to be styled. E.g. <h1 style="color: #fff;">
+An inline style lives within your XHTML document. It is attached directly to the element to be styled. E.g.
 
 2. IDs (# of ID selectors)
 ID is an identifier for your page elements, such as #div.
@@ -14,7 +14,6 @@ This group includes .classes, [attributes] and pseudo-classes such as :hover, :f
 
 4. Elements and pseudo-elements (# of Element (type) selectors).
 Including for instance :before and :after.
-
 
 ## CSS Precedence Pattern
 ( 0, 0, 0, 0 ) => (inline style, id, classes/attributes/pseudo classes, element/pseudo elements)
