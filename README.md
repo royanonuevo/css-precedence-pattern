@@ -1,4 +1,4 @@
-# CSS Precedence
+# CSS Precedence Guidlines
 
 
 ## Specificity hierarchy
